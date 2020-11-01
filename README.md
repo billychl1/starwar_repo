@@ -1,12 +1,12 @@
 How to setup:
-$ cd ./starwar_python
-$ pip3 install -r requirements.txt
+1. $ cd ./starwar_python
+2. $ pip3 install -r requirements.txt
 
 How to run:
-$ python3 main.py
+1. $ python3 main.py
 
 How to invoke the service:
-$ curl -i http://localhost:5000/starwarships
+1. $ curl -i http://localhost:5000/starwarships
 
 Assumption:
 1. Using Python 3 and Python 3 is installed
